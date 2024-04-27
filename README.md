@@ -21,8 +21,7 @@ Solving problems of fake/counterfeit products with Patented, Machine Learning an
 Lead Strategy and roadmap for the entire product line which includes 1) Artwork encryption SaaS platform 2) API and SDKs  3) Analytics dashboard and 4) User facing Web and Native apps for product authentication
 Implemented the OKR framework for performance management via a web based tool for the entire org
 Revamped user journey with computer vision based machine learning models on device to improve authenticity scan accuracy by about 200%
-Lead the entire product team of 3 PMs, 20 developers, and 1 UX designer
-Launched 2 new product lines - Encrypted QR and Serialized Encryption
+Lead the entire product team of 3 PMs and 1 UX designer
 
 PulsOps Inc. – Co-founder and Chief Product Officer          	   (Apr 2021 – May 2023)
 
